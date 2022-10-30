@@ -101,7 +101,7 @@ global.wm2 = 'Gilzz X Code×፝֟͜×'
 global.wm3 = 'Gilzz-NDラ | By GilzzXCode ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Gilzz-MDAラ | ʙʏ ${global.nameown}`
+global.titlebot = `Gilzz-MDラ | ʙʏ ${global.nameown}`
 global.author = 'GilzzX ×፝֟͜×' 
 global.packname = 'Gilzz Aza ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
@@ -136,7 +136,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbdoc = 'https://telegra.ph/file/017f9d58f41b857f36f29.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
